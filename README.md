@@ -1,4 +1,4 @@
-# Bauhaus Time Traveler
+# Bauhaus Time Traveler Local AI Mac
 
 Part of the lecture performance *Born in Latent Space*. An interactive installation, and a section of that performance. A person stands in front of the camera and the piece renders them, live, as a Bauhaus time traveler: architectural goggles, solid geometry, Mondrian color, couture built like a mobile. The image is a speculative future, made in the room, in the moment.
 
